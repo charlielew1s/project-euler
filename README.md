@@ -1,6 +1,6 @@
 ## Welcome to my Project Euler solutions repository.
 
-The solutions to each completed Project Euler problem can be found in the (solutions)[] folder.
+The solutions to each completed Project Euler problem can be found in the [solutions](https://github.com/charlielew1s/project-euler/tree/main/solutions) folder.
 <br></br>
 Each problem has its own javascript file that can be run with the command: node ./problemX.js
 <br></br>
